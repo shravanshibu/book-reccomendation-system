@@ -1,5 +1,7 @@
 # book-reccomendation-system
 
+As data set is too big it cannot be uploaded here, so link to download the same is https://www.kaggle.com/shravanshibu/book-data-set
+
 A Collabotaive reccommendation system, on data set of books.Which will give perfect suggestions or recomentation of books of your interest. Model is created with NearestNeighbours un supervised learning using cosine similarity.
 
 RECOMMENDATION SYSTEMS
